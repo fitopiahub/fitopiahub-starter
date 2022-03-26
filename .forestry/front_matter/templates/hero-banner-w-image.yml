@@ -41,5 +41,3 @@ fields:
   - type: boolean
     name: enabled
     label: Enabled
-  - type: include
-    template: link
