@@ -47,5 +47,3 @@ fields:
     - type: boolean
       name: open_in_new_tab
       label: open_in_new_tab
-pages:
-- content/test.md
