@@ -17,6 +17,7 @@ fields:
   - type: file
     name: image
     label: Image
+    default: "/uploads/未命名設計.png"
   - type: text
     name: alt_text
     label: Alt Text
