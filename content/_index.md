@@ -11,6 +11,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Fitness <br><strong>Workout For Life</strong>
+  background_image: "/uploads/2018/06/21/fitopiahub-bg.png"
 - template: simple-footer
   block: footer-1
   content: Fitopia Hub
